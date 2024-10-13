@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Natalia Glazman/ Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Natalia Glazman"
 description              : &description "personal description"
 url                      : https://nataliaglazman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "London"
   employer         : "King's College London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "natalia.glazman@kcl.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
